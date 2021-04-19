@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "node-request": "^0.0.3",
+    "nodejs": "^0.0.0",
+    "request": "^2.88.2"
+  }
+}

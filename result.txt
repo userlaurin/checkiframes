@@ -1,0 +1,5 @@
+https://reign.berlin is blocked for iFrames? NO 
+https://xucation.be-xu.com is blocked for iFrames? YES 
+https://google.com is blocked for iFrames? YES 
+https://ethz.ch is blocked for iFrames? NO 
+https://xu-group.de is blocked for iFrames? NO 
